@@ -9,7 +9,7 @@ This project is a maze game developed in Python. Players navigate through a maze
 - Player movement and interaction
 
 ## Requirements
-- Python 3.x
+- Python 3.9
 - Pygame
 
 ## Installation
@@ -17,10 +17,18 @@ This project is a maze game developed in Python. Players navigate through a maze
 ### Prerequisites
 Make sure you have Python 3.9 installed. You can download it from [python.org](https://www.python.org/).
 
+### Clone the repository
+```sh
+    git clone git@github.com:VotreNomUtilisateur/MazeGame.git
+    cd MazeGame
+
 Install Pygame using pip:
 ```sh
-pip install pygame
+    pip install pygame
 
-### Clone the repository
+Running the game
+Navigate to the project directory and run the main script:
+python main4.py
+
 
 
